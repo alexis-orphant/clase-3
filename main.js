@@ -29,3 +29,4 @@ while(product !== "ESC"){
     }
     product = prompt("Seleccione un producto ingresando un numero del 1 al 5");
 }
+console.log("Dejó de ingresar productos")
